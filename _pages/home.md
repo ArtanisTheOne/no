@@ -11,7 +11,7 @@ excerpt: >
   A Real-Time Interchangeable Translating Assistant, Rita, is a translation bot built using discord.js and Google Translate API.<br />
   <small><a href="https://github.com/ZyC0R3/RitaBot/releases/tag/1.2.0">Latest release v1.2.0-3</a></small>
 feature_row:
-  - image_path: /assets/images/2.jpg
+  - image_path: "https://iili.io/2cAoW7.gif"
     alt: "customizable"
     title: "Super customizable"
     excerpt: "From Automatic Translations, to User only, Multiple Channels and over 100+ supported Langauges"
