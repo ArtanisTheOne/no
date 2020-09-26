@@ -25,7 +25,7 @@ feature_row:
     url: "/secure/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/3.jpg
+  - image_path: "https://iili.io/2cAWdJ.gif"
     alt: "100% free"
     title: "MIT License"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
