@@ -11,6 +11,7 @@
 ---
 
 permalink: /
+header: "lala"
 gallery:
   - url: /assets/images/1.gif
     image_path: assets/images/1.gif
