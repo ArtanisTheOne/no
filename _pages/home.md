@@ -3,18 +3,12 @@ title: "Foo Bar Identity"
 permalink: /
 excerpt: "RITA"
 header:
-  image: /assets/images/home_banner1.jpg
-sidebar:
-  - title: "Role"
-    image: "http://placehold.it/350x250"
-    image_alt: "logo"
-    text: "Real-Time Intergalactic Translating Assistant"
-  - title: "Uses"
-    text: "Translate your discord channels for free !"
+  image: /assets/images/home_banner1.webp
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/1.gif
+    image_path: assets/images/1.gif
     alt: "placeholder image 1"
+    excerpt: "LAlalaaaaaaaaaaaaaaaaa"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
