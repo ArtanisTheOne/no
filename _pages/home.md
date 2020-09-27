@@ -8,10 +8,13 @@
         <h1 class="u-text u-text-default u-title u-text-1">RITA</h1>
         <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Real-Time Intergalactic Translating Assistant. 100% customizable, free and helpful!</p>
         <a href="quick-start-guide/" class="u-btn u-button-style u-white u-btn-1">Start Using</a>
----
-
+          ---
+title: "RITA Home Page"
 permalink: /
-header: "lala"
+excerpt: "RITA - Real-Time Intergalactic Translating Assistant.  Using Google Translate API to create a custom-made 100% free automatic translation discord bot!"
+header:
+  image: https://images.hdqwalls.com/wallpapers/galaxy-space-mu.jpg
+  excerpt: "Rita"
 gallery:
   - url: /assets/images/1.gif
     image_path: assets/images/1.gif
