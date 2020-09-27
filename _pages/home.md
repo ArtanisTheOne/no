@@ -1,5 +1,9 @@
 ---
 header: 
+<link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Page-1.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
 <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
     <section class="u-align-left u-clearfix u-image u-shading u-section-1" src="https://www.10wallpaper.com/wallpaper/2560x1600/1703/Deep_space-2017_High_Quality_Wallpaper_2560x1600.jpg" data-image-width="2560" data-image-height="1600" id="sec-b813">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
