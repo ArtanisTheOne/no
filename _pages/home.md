@@ -4,13 +4,9 @@ permalink: /
 excerpt: "RITA"
 header:
   image: /assets/images/home_banner1.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
-    actions:
-     label: "Quick Start Guide"
-      url: "/quick-start-guide/"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: "http://placehold.it/350x250"
     image_alt: "logo"
     text: "Real-Time Intergalactic Translating Assistant"
   - title: "Uses"
