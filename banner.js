@@ -9,12 +9,7 @@ const date = `${dateObj.getFullYear()}-${padStart(
 )}-${padStart(dateObj.getDate())}`;
 
 
-const banner = var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
-    link.type = 'image/x-icon';
-    link.rel = 'shortcut icon';
-    link.href = 'https://drive.google.com/file/d/1iaHZswy946VXLIEVsWZTKNdrksZfKY5K/view?usp=sharing';
-    document.getElementsByTagName('head')[0].appendChild(link);
-}();
+
  `/*!
  * Minimal Mistakes Jekyll Theme ${pkg.version} by ${pkg.author}
  * Copyright 2013-${dateObj.getFullYear()} Michael Rose - mademistakes.com | @mmistakes
