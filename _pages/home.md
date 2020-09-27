@@ -1,3 +1,5 @@
+---
+
 title: "RITA Home Page"
 permalink: /
 excerpt: "RITA - Real-Time Intergalactic Translating Assistant.  Using Google Translate API to create a custom-made 100% free automatic translation discord bot!"
