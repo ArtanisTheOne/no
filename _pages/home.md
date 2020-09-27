@@ -1,5 +1,3 @@
----
-header: 
 <link rel="stylesheet" href="nicepage.css" media="screen">
 <link rel="stylesheet" href="Page-1.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script>
@@ -10,6 +8,8 @@ header:
         <h1 class="u-text u-text-default u-title u-text-1">RITA</h1>
         <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Real-Time Intergalactic Translating Assistant. 100% customizable, free and helpful!</p>
         <a href="quick-start-guide/" class="u-btn u-button-style u-white u-btn-1">Start Using</a>
+---
+
 permalink: /
 gallery:
   - url: /assets/images/1.gif
