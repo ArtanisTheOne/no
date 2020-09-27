@@ -1,16 +1,11 @@
 ---
 header: 
 <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
-          </div>
-        </nav>
-      </div></header>
     <section class="u-align-left u-clearfix u-image u-shading u-section-1" src="https://www.10wallpaper.com/wallpaper/2560x1600/1703/Deep_space-2017_High_Quality_Wallpaper_2560x1600.jpg" data-image-width="2560" data-image-height="1600" id="sec-b813">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <h1 class="u-text u-text-default u-title u-text-1">RITA</h1>
         <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Real-Time Intergalactic Translating Assistant. 100% customizable, free and helpful!</p>
         <a href="quick-start-guide/" class="u-btn u-button-style u-white u-btn-1">Start Using</a>
-      </div>
-    </section>
 permalink: /
 gallery:
   - url: /assets/images/1.gif
