@@ -1,0 +1,120 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 800px}
+.u-section-1 .u-text-1 {animation-duration: 1750ms; margin: 321px auto 0 0}
+.u-section-1 .u-text-2 {font-size: 1.25rem; animation-duration: 1250ms; margin: 33px 248px 0 14px}
+.u-section-1 .u-btn-1 {background-image: none; border-style: solid; animation-duration: 1750ms; margin: 26px auto 60px 33px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 660px}
+.u-section-1 .u-text-2 {margin-left: 0; margin-right: 62px}
+.u-section-1 .u-btn-1 {margin-left: 0} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 506px}
+.u-section-1 .u-text-2 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 380px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 287px}
+.u-section-1 .u-btn-1 {animation-duration: 250ms} }.u-section-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://i.pinimg.com/originals/d4/ac/d8/d4acd879c28c1ca116846c1ab6170b59.jpg"); background-position: 50% 50%}
+.u-section-2 .u-sheet-1 {min-height: 545px}
+.u-section-2 .u-text-1 {margin: 60px auto 0 249px}
+.u-section-2 .u-text-2 {font-size: 1.25rem; margin: -44px 533px 0 264px}
+.u-section-2 .u-btn-1 {background-image: none; border-style: solid; margin: 30px auto 60px 268px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 449px}
+.u-section-2 .u-text-1 {margin-left: 205px}
+.u-section-2 .u-btn-1 {margin-left: 68px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 344px}
+.u-section-2 .u-text-1 {margin-left: 157px}
+.u-section-2 .u-text-2 {margin-left: 154px; margin-right: 423px}
+.u-section-2 .u-btn-1 {margin-left: 0} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 258px}
+.u-section-2 .u-text-1 {margin-left: 118px}
+.u-section-2 .u-text-2 {margin-left: 64px; margin-right: 333px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 474px}
+.u-section-2 .u-text-1 {width: auto; margin-top: 34px; margin-left: -11px}
+.u-section-2 .u-text-2 {width: auto; margin-top: -18px; margin-right: 132px; margin-left: 9px} }.u-section-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/istockphoto-1152723259-170667a.jpg"); background-position: 50% 50%}
+.u-section-3 .u-sheet-1 {min-height: 545px}
+.u-section-3 .u-text-1 {margin: 166px auto 0 226px}
+.u-section-3 .u-text-2 {font-size: 1.25rem; margin: 28px 417px 0 301px}
+.u-section-3 .u-btn-1 {background-image: none; border-style: solid; margin: 39px auto 60px 265px} 
+
+@media (max-width: 1199px){ .u-section-3 .u-sheet-1 {min-height: 449px}
+.u-section-3 .u-text-1 {margin-left: 186px}
+.u-section-3 .u-text-2 {margin-left: 201px; margin-right: 317px}
+.u-section-3 .u-btn-1 {margin-left: 65px} }
+
+@media (max-width: 991px){ .u-section-3 .u-sheet-1 {min-height: 344px}
+.u-section-3 .u-text-1 {margin-left: 142px}
+.u-section-3 .u-text-2 {margin-left: 91px; margin-right: 207px}
+.u-section-3 .u-btn-1 {margin-left: 0} }
+
+@media (max-width: 767px){ .u-section-3 .u-sheet-1 {min-height: 258px}
+.u-section-3 .u-text-1 {margin-left: 107px}
+.u-section-3 .u-text-2 {margin-left: 1px; margin-right: 117px} }
+
+@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 474px}
+.u-section-3 .u-text-1 {width: auto; margin-top: 34px; margin-left: -11px}
+.u-section-3 .u-text-2 {width: auto; margin-top: -18px; margin-right: 132px; margin-left: 9px}
+.u-section-3 .u-btn-1 {margin-top: 30px} }.u-section-4 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://www.jakpost.travel/wimages/large/10-100417_purple-color-abstract-space-space-high-resolution-galaxy.jpg"); background-position: 50% 50%}
+.u-section-4 .u-sheet-1 {min-height: 545px}
+.u-section-4 .u-text-1 {font-size: 3.75rem; margin: 166px auto 0 226px}
+.u-section-4 .u-text-2 {font-size: 1.25rem; margin: 28px 417px 0 301px}
+.u-section-4 .u-btn-1 {background-image: none; border-style: solid; margin: 39px auto 60px 265px} 
+
+@media (max-width: 1199px){ .u-section-4 .u-sheet-1 {min-height: 449px}
+.u-section-4 .u-text-1 {margin-left: 186px}
+.u-section-4 .u-text-2 {margin-left: 201px; margin-right: 317px}
+.u-section-4 .u-btn-1 {margin-left: 65px} }
+
+@media (max-width: 991px){ .u-section-4 .u-sheet-1 {min-height: 344px}
+.u-section-4 .u-text-1 {margin-left: 142px}
+.u-section-4 .u-text-2 {margin-left: 91px; margin-right: 207px}
+.u-section-4 .u-btn-1 {margin-left: 0} }
+
+@media (max-width: 767px){ .u-section-4 .u-sheet-1 {min-height: 258px}
+.u-section-4 .u-text-1 {margin-left: 107px}
+.u-section-4 .u-text-2 {margin-left: 1px; margin-right: 117px} }
+
+@media (max-width: 575px){ .u-section-4 .u-sheet-1 {min-height: 474px}
+.u-section-4 .u-text-1 {width: auto; margin-top: 34px; margin-left: -11px; font-size: 3rem}
+.u-section-4 .u-text-2 {width: auto; margin-top: -18px; margin-right: 132px; margin-left: 9px}
+.u-section-4 .u-btn-1 {margin-top: 30px} }.u-section-5 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://www.10wallpaper.com/wallpaper/2560x1600/1703/Deep_space-2017_High_Quality_Wallpaper_2560x1600.jpg"); background-position: 50% 50%}
+.u-section-5 .u-sheet-1 {min-height: 448px}
+.u-section-5 .u-text-1 {margin: 110px -74px 0 404px}
+.u-section-5 .u-text-2 {margin: 44px 0 0 auto}
+.u-section-5 .u-btn-1 {background-image: none; border-style: solid; margin: 35px 377px 60px auto} 
+
+@media (max-width: 1199px){ .u-section-5 .u-sheet-1 {min-height: 369px}
+.u-section-5 .u-text-1 {margin-left: 304px}
+.u-section-5 .u-btn-1 {margin-right: 177px} }
+
+@media (max-width: 991px){ .u-section-5 .u-sheet-1 {min-height: 283px}
+.u-section-5 .u-text-1 {margin-left: 194px}
+.u-section-5 .u-btn-1 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-5 .u-sheet-1 {min-height: 212px}
+.u-section-5 .u-text-1 {margin-left: 0; margin-right: 0} }
+
+@media (max-width: 575px){ .u-section-5 .u-sheet-1 {min-height: 287px} }.u-section-6 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://sfwallpaper.com/images/high-quality-space-wallpapers-7.jpg"); background-position: 50% 50%}
+.u-section-6 .u-sheet-1 {min-height: 512px}
+.u-section-6 .u-text-1 {margin: 140px 406px 0 -76px}
+.u-section-6 .u-text-2 {font-size: 1.125rem; margin: 46px 680px 0 0}
+.u-section-6 .u-btn-1 {background-image: none; border-style: solid; margin: 46px auto 60px 0} 
+
+@media (max-width: 1199px){ .u-section-6 .u-sheet-1 {min-height: 422px}
+.u-section-6 .u-text-1 {margin-right: 306px}
+.u-section-6 .u-text-2 {margin-right: 480px} }
+
+@media (max-width: 991px){ .u-section-6 .u-sheet-1 {min-height: 323px}
+.u-section-6 .u-text-1 {margin-right: 196px}
+.u-section-6 .u-text-2 {margin-right: 260px} }
+
+@media (max-width: 767px){ .u-section-6 .u-sheet-1 {min-height: 242px}
+.u-section-6 .u-text-1 {margin-left: 0; margin-right: 0}
+.u-section-6 .u-text-2 {margin-right: 80px} }
+
+@media (max-width: 575px){ .u-section-6 .u-sheet-1 {min-height: 287px}
+.u-section-6 .u-text-2 {margin-right: 0} }
